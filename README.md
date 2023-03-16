@@ -13,4 +13,11 @@
 * KOlla så att dina branches är i synk med main
 * git pull origin main
 
-## Här gör vi ändingar i main
+## Så här gör vi vid konflikt 
+* $ git fetch 
+* $ git merge origin/main
+* lös konflikten 
+* git add . 
+* git commit -m "msg"
+* git push orign name
+
