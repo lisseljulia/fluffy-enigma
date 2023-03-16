@@ -12,3 +12,5 @@
 * Godkän koden och merge 
 * KOlla så att dina branches är i synk med main
 * git pull origin main
+
+## Här gör vi ändingar i main
